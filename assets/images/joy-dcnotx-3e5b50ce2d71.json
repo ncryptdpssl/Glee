@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "joy-dcnotx",
+  "private_key_id": "3e5b50ce2d71750a41812a4cfd592dd4bf80fb01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzK8esxTBg0ymI\nsO43LKZa4PXDZxCloj+zd2iZPj9fa6YeOsxJcyKbhib1wsAGB8qGrk4JZYZKtQ7t\nP5rjpbcEkQjibDXITK0rftXuOzBNy1RGMbe7W4qOxNXbSU6Ghv8eXaJxsPLLhWVL\n2dB1+kE3BfPNfKIJEaeC9Mp4PzUJCdsIF0kbtay9Oa8OiU/GM8Ri7CIN9w88vMhV\nbP7JcnUxzwrSQPk7BgnT0ncCcWNE/gEEMSKixywxugt343ls1azHD1XsSqpG1yCm\nrnJokpxnHN3WmAPa1btxxUwfsiFlaPo360fLvcw5VFTCgisX3VvuMQ8aTzmssOo7\nmnNEkTtXAgMBAAECggEAU1Wfj7o/oClW/h7dDYiU71wGsxXy5jcqzbxSSERtkWIu\nZ40Ni3QjupaQ9GnainOBPVdBMJmp9oF0KeEVl6ByGYujyDxwX3NacAqUUjPxaZ2S\n2vsw69HOBk2C8nWMMoIDkwoWDi8xHnwy+y6aCOWXA5KfLQo1C2bMtNpKeddcQZEu\nhj7XAVeaOLRTQPkcXp/YbbzVQZshNq+upqoaoXupy4UjpPysMYxXH3iV+KK395os\n7FWQwb1hYMubUhGWaYdWGNrBgBgAc2E5vuc9llaKzvZY3OmbeFU3MdDKOfkKof8x\nuqe4ViV/cPe3HftbB0nZMiIBe/tQYCX0ckW+zzgcQQKBgQDfvEH0z/bBd8d7PRy9\ndcfG5tXhlRwQQY4VnKRYiUjP1k+XElZkSV0tIE+DYJ9rryugV9ty2cy4cNumvfWq\nzlahvpKacfer0CPxYNQfxtBJnuz/05LPOwXmAxrRxYWtYKONR2E8AM1sKl23huRR\nrJRlJO8Pq+yU6aiUAPvG0muIBwKBgQDNAlGuqT+aW8gANRfe7TOLSWrMb6XG4aTN\nTuhAB17Hv1A6AFAGSXO2HtzAhqdqcGW2+ImllBWE6xIgaptY+1WTL7enC7ixrIUE\ngdNuldUPGFTji048HbtP304t3rkr85+EeSKrlPBLceMC+T+cW3jMFr+GAdrBJyfP\nHRblYQG+MQKBgBuvwkG3UoPSfL8Fav8PCi/U9Pa7awOf+SM3hSbnpjkB/ktlm4dB\nhORGsVBCrre2r6Fh/egSh8DzRls1+qaubg4J9T5jiBCc6zW9k8Jy6eeSYSWvWuWG\nGk7CZ5k55jb0VIjxIlk4iDMwcvR5Htv0jVCO5356+gXbfF8EWCPcei4VAoGAYPTu\n0q8i8IrlzQtPLdR7Iy3mv6cx/Rxsh9kAyH9z2P5nH/dT4ZVNj12LQ9arSRC9Wkqz\nNscRYlqWqRQiQnQjpcfUkMFfaVBRXK9V4qAkMs5sH22b45ygIQdYfyMt6lZ/I/Ty\na7m158iF97sP1ZABUmyTyfoIjn9JOY/lazh0zZECgYABkkJivmNckRF1BDYQB9wM\npz3oqAgVxCTAOZU8E2OaxmKONXDBaRQd2TVjVJKsQSntf1oTlz2LJuvAt6birlxw\nKZCQGPPSHmFwH+sIM4zLigFb8yhX4QTJEyrgQGTvvBpLhe4W2cgNin4U0/EDBuKr\nA/sVXU5RTBdLixw0ssf6GQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aditya-varma@joy-dcnotx.iam.gserviceaccount.com",
+  "client_id": "113238515272803232922",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aditya-varma%40joy-dcnotx.iam.gserviceaccount.com"
+}

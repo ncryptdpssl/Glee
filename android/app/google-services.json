@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1042961905845",
+    "firebase_url": "https://glee-community.firebaseio.com",
+    "project_id": "glee-community",
+    "storage_bucket": "glee-community.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042961905845:android:f36eea99ef34934745e6fc",
+        "android_client_info": {
+          "package_name": "com.AdityaVarma.glee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042961905845-149ffij4brfqi6uh4uiud2lh5ld2fmao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAglDDcpGp71oe4cpjLoBGlfjbAaAn1Zh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042961905845-149ffij4brfqi6uh4uiud2lh5ld2fmao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
